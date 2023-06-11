@@ -5,8 +5,11 @@ This repository contains the Neo4j database setup and queries for a hypothetical
 ## Structure
 
 **1. Airport nodes**, represented by attributes like airport code, name, city, country, number of runways, and timezone.
+
 **2. Airline nodes**, represented by an attribute for the airline name.
+
 **3. FLIGHT relationships**, containing attributes such as airline, flight number, price, aircraft type, and flight duration.
+
 **4. OPERATES relationships**, signifying the relationship between an airline and an airport it operates in.
 
 ## Files
