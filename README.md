@@ -15,6 +15,7 @@ This repository contains the Neo4j database setup and queries for a hypothetical
 ## Files
 
 **database.cql:** This file contains the Cypher queries necessary to set up the database, including creating nodes and relationships.
+
 **queries.cql:** This file contains various Cypher queries that can be run against the database to retrieve data, such as getting all flights from a specific airport, or finding the shortest path between two airports.
 
 Please note that the database and queries are hypothetical and for demonstration purposes only. They do not reflect actual airline routes or operations.
